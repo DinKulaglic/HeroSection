@@ -1,0 +1,80 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  height: 100vh;
+
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+}
+
+.head-image {
+  background: url(./img/samurai-art-fantasy-uhdpaper.com-4K-109.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.head-text {
+  text-align: center;
+  color: #dddddd;
+}
+
+.text {
+  font-size: 28px;
+  margin-bottom: 25px;
+  color: #dddddd;
+}
+.head-text h1 {
+  font-size: 55px;
+  font-family: fantasy;
+  font-weight: 100;
+  font-style: italic;
+  margin-bottom: 15px;
+  color: #dddddd;
+}
+
+.btn {
+  text-decoration: solid;
+  color: whitesmoke;
+  background: #808080;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  padding: 15px 40px;
+  border-radius: 5px;
+  display: inline-block;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+.btn:hover {
+  background: #ff4136;
+}
+
+.quote {
+  font-size: 25px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-weight: 100;
+  font-style: italic;
+  margin-top: 25px;
+  font-weight: lighter;
+  text-shadow: 2px 2px #a10000;
+  color: #dddddd;
+}
+
+.mentor {
+  font-size: 20px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-weight: 100;
+  font-style: italic;
+  margin-top: 10px;
+  font-weight: lighter;
+  color: #dddddd;
+}

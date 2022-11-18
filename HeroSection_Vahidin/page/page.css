@@ -1,0 +1,14 @@
+* {
+  background-color: brown;
+}
+
+.header {
+  font-size: 25px;
+  text-align: center;
+}
+
+.body-text {
+  font-size: 20px;
+  text-align: justify;
+  text-align: center;
+}
